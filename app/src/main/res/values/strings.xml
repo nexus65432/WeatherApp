@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tweather</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="endpoint_url">https://twitter-code-challenge.s3.amazonaws.com/future_%1$.json</string>
+</resources>
